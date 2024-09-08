@@ -8,7 +8,17 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "skillmap1.md",
+        "skillmap2.md",
+        "sm1/p1.md",
+        "sm1/p2.md",
+        "sm1/skillmap1.md",
+        "sm2/p1.md",
+        "sm2/p2.md",
+        "sm2/skillmap2.md",
+        "x1/x1.ts",
+        "x2/x2.ts"
     ],
     "testFiles": [
         "test.ts"
