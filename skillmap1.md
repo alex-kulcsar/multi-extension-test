@@ -21,7 +21,7 @@
 * next: path-01-part-2
 * url: https://github.com/alex-kulcsar/multi-extension-test/sm1/p1.md
 
-### lab-01-01-part-2
+### path-01-part-2
 
 * name: Path 1 part 2
 * description: Do some stuff in this second part!
